@@ -15,7 +15,7 @@ body {
   flex-direction: column;
   align-items: center;
   justify-content: start;
-  width: min-content;
+  width: 15.4rem;
   height: 18rem;
 }
 button {
